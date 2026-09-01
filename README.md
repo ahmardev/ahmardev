@@ -11,4 +11,4 @@ ahmarhussain-dev / README.md
 ## 🛠️ Tech I'm learning
 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,cpp,python)
