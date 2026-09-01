@@ -2,7 +2,7 @@ ahmarhussain-dev / README.md
 
 # Hi, I'm Ahmar 👋
 
-**whoami** Ahmar Hussain — SE Student @ UET Lahore
+**i am** Ahmar Hussain — SE Student @ UET Lahore
 
 **currently_learning**  Full-Stack Development
 
