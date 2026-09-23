@@ -5,7 +5,7 @@ ahmarhussain-dev / README.md
 
 **i am** Ahmar Hussain — SE Student @ UET Lahore
 
-**currently_learning**  Full-Stack Development
+
 
 **contact** [ahmar.uet.dev@gmail.com](mailto:ahmar.uet.dev@gmail.com)
 
